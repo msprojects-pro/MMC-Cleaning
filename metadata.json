@@ -1,0 +1,6 @@
+{
+  "name": "MMC Cleaning NI",
+  "description": "Professional mobile car valeting, sofa, and carpet cleaning based in Belfast, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
